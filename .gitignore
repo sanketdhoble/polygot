@@ -4,6 +4,8 @@ develop-eggs
 dist
 downloads
 eggs
+env
+venv
 parts
 src/*.egg-info
 lib
