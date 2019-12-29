@@ -3,7 +3,7 @@
 ## Installation guide
 ```sh
 $ virtualenv venv
-$ source bin/activate
+$ source venv/bin/activate
 $ pip3 install -r requirements.txt
 ```
 =======
