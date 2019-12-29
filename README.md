@@ -2,6 +2,8 @@
 
 ## Installation guide
 ```sh
+$ git clone https://github.com/sanketdhoble/polygot.git
+$ cd polygot
 $ virtualenv venv
 $ source venv/bin/activate
 $ pip3 install -r requirements.txt
