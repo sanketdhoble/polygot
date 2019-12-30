@@ -14,4 +14,4 @@ $ pip3 install -r requirements.txt
 $ python manager.py
 ```
 
-`curl -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"number":3791}' http://localhost:8080/isPrime`
+`curl -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"number":3791}' http://localhost:8080/isTwoSidedPrime`
